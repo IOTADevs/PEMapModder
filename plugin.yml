@@ -1,0 +1,8 @@
+name: PEMapModder
+main: IOTADevs\PEMapModder\Main
+version: 1.0.0
+load: POSTWORLD
+author: IOTADevs
+description: Dedicated to the legend @PEMapModder
+website: https://github.com/IOTADevs/PEMapModder
+api: 3.0.0-ALPHA10
